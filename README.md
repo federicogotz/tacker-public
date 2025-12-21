@@ -2,6 +2,11 @@
 
 **A personal finance tracker built to keep finances undercontrol with simplicity.**
 
+https://tacker.app/
+
+<img width="1912" height="988" alt="Screenshot 2025-12-21 at 21 00 23" src="https://github.com/user-attachments/assets/60db26b6-272d-4761-a6f7-b0bc3db8daf8" />
+
+
 ## 📖 The Story
 
 In 2020, I created an Excel spreadsheet to track my expenses. It worked beautifully for me - just 5 minutes per week to maintain complete financial clarity. Friends asked to use it, but sharing meant exporting copies and explaining complex formulas. That friction sparked an idea: what if I could deliver the same value through an intuitive app that anyone could use?
